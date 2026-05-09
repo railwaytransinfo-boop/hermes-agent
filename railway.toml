@@ -1,5 +1,0 @@
-[deploy]
-startCommand = "hermes gateway run"
-healthcheckPath = "/health"
-healthcheckTimeout = 300
-restartPolicyType = "ON_FAILURE"
